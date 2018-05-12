@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   commentator:
     agent_name: Wilder, Alexander
-    birthdate: &id001 1823
+    birthdate: 1823
     deathdate: 1908
     gutenberg_agent_id: '9561'
     url: http://www.gutenberg.org/2009/agents/9561
@@ -19,12 +19,14 @@ creator:
     - Müller, Max
     - Mueller, Friedrich Max
     - F. Max Müller
-    birthdate: *id001
+    birthdate: 1823
     deathdate: 1900
     gutenberg_agent_id: '787'
     url: http://www.gutenberg.org/2009/agents/787
     wikipedia: http://en.wikipedia.org/wiki/Max_M%C3%BCller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20847#India--What-can-it-teach-us-A-Course-of-Lectures-Delivered-before-the-University-Of-Cambridge
 gutenberg_bookshelf: India
 gutenberg_issued: '2007-03-18'
 gutenberg_type: Text
